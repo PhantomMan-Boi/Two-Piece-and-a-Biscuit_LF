@@ -1,0 +1,24 @@
+﻿Two Piece and a Biscuit Release Notes
+﻿
+Game Project: Two Piece and a Biscuit 
+Creator: Luis Fajardo
+Version: 1.2
+Date: 1/19/25
+
+
+New features
+* ﻿Added a new ending.﻿
+
+
+Fixes
+* ﻿Fixed the wall tiles to represent the floor tiles of a kitchen. ﻿
+﻿
+Improvements (of existing features)
+* ﻿Adjusted the rooms to add some length, as well as move the players start position. 
+* Added extra dialogue for whenever you move through a door onto the next room.
+
+
+Known Bugs
+* ﻿Endings may get mixed up.
+* Performance issues whenever running.
+* Random crashes when interacting with and ending.
